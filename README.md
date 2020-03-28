@@ -1,4 +1,4 @@
-# omnifood-clone
+# omnifood
 
-this is website link is given below
+#website link
 https://eager-wilson-39ab10.netlify.com/
